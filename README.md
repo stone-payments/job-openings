@@ -1,2 +1,1 @@
-# job-openings
-Tech Opportunities at Stone Payments
+![Stone](https://www.stone.com.br/images/logo.png)
